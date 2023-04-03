@@ -2,15 +2,17 @@ const { defineConfig } = require("cypress");
 
 module.exports = defineConfig({
   e2e: {
+    env: {
+      "cpf": "01348288442",
+      "senha": "6515",
+      "provedor": "tim"
+    },
     setupNodeEvents(on, config) {
       // implement node event listeners here
     },
   },
   experimentalStudio: true,
   setLoadTimeout: 5000,
-  "chromeWebSecurity": false,
-  "env": {
-    "LANGUAGE": "pt-BR",
-    "LANG": "pt_BR.UTF-8"
-  },
+
+
 });
