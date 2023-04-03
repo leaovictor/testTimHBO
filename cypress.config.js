@@ -12,7 +12,7 @@ module.exports = defineConfig({
     },
   },
   experimentalStudio: true,
-  setLoadTimeout: 5000,
+  "pageLoadTimeout": 10000
 
 
 });
