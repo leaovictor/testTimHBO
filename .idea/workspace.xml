@@ -26,9 +26,8 @@
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "cy-test",
     "last_opened_file_path": "C:/Users/Victor/WebstormProjects/timHBO",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -55,6 +54,7 @@
       <workItem from="1680547959251" duration="10000" />
       <workItem from="1680557009292" duration="1716000" />
       <workItem from="1680559885816" duration="5260000" />
+      <workItem from="1680565193957" duration="394000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1680541448614</created>
